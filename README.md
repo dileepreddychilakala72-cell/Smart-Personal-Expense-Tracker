@@ -1,5 +1,4 @@
 # Smart-Personal-Expense-Tracker
-This is my first project
 Report For Python Jackfruit Problem (Group 9)
 
 
